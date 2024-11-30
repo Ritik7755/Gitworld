@@ -1,3 +1,3 @@
 # Gitworld
 this is my first repository
-auther ritik dubey
+Author Ritik dubey
